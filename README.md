@@ -23,16 +23,17 @@ Here are some ideas to get you started:
 
 Sou um estudante em Desenvolvimento Web e bastante curioso em relação as novas tecnologias, principalmente no campo da Inteligência Artificial. Estou no penúltimo ano (4º período) do curso Tecnólogo em Análise de Desenvolvimento de Sistemas.
 
-- 🔭 Atualmente não trabalho diretamente com tecnologia, embora a use para automatizar tarefas que são repetitivas e outros sistemas de gerenciamento, que facilitam o meu dia-a-dia.
+- 🔭 Sou programador em Python
 
 - 🌱 Atualmente estou estudando ...
 
-	- Python
 	- Framework Django
+	- SQL
+
+- 🌱 Tenho conhecimento nas tecnologias:
+	
 	- HTML/CSS
-
-- 🌱 Tenho conhecimento (básico) também nas ferramentas e bibliotecas:
-
+	- Git
 	- Jupyter Notebook / Lab
 	- Pandas / Numpy / Matplotlib / Seaborn
 	- Scikit-Learn
