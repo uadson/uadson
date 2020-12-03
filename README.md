@@ -34,6 +34,7 @@ Sou um estudante em Desenvolvimento Web e bastante curioso em relação as novas
 	
 	- HTML/CSS
 	- Git
+	- pyenv
 	- Jupyter Notebook / Lab
 	- Pandas / Numpy / Matplotlib / Seaborn
 	- Scikit-Learn
