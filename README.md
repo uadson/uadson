@@ -1,4 +1,4 @@
-### Hi, I'm Uadson! :D 👋
+### Olá, Eu sou Uadson! :D 👋
 
 <!--
 **uadson/uadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,20 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uadsonfeitosa/)](https://www.linkedin.com/in/uadsonfeitosa/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uadson_emile)](https://twitter.com/uadson_emile)
 
-### About me
-I'm a {backend, AI} developer (student).
+### Sobre mim:
 
-- 🌱 I’m currently learning ...
+Sou um estudante em Desenvolvimento Web e bastante curioso em relação as novas tecnologias, principalmente no campo da Inteligência Artificial. Estou no penúltimo ano (4º período) do curso Tecnólogo em Análise de Desenvolvimento de Sistemas.
+
+- 🔭 Atualmente não trabalho diretamente com tecnologia, embora a use para automatizar tarefas que são repetitivas e outros sistemas de gerenciamento, que facilitam o meu dia-a-dia.
+
+- 🌱 Atualmente estou estudando ...
 
 	- Python
 	- Framework Django
 	- HTML/CSS
+
+- 🌱 Tenho conhecimento (básico) também nas ferramentas e bibliotecas:
+
 	- Jupyter Notebook / Lab
 	- Pandas / Numpy / Matplotlib / Seaborn
 	- Scikit-Learn
