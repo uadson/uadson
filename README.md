@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim:
 
-Sou um estudante em Desenvolvimento Web e bastante curioso em relação as novas tecnologias, principalmente no campo da Inteligência Artificial. Estou no penúltimo ano (4º período) do curso Tecnólogo em Análise de Desenvolvimento de Sistemas.
+Sou estudante em Desenvolvimento Web e bastante curioso em relação as novas tecnologias, principalmente no campo da Inteligência Artificial. Estou no penúltimo ano (4º período) do curso Tecnológico em Análise de Desenvolvimento de Sistemas.
 
 - 🔭 Sou programador em Python
 
@@ -30,7 +30,7 @@ Sou um estudante em Desenvolvimento Web e bastante curioso em relação as novas
 	- Framework Django
 	- SQL
 
-- 🌱 Tenho conhecimento nas tecnologias:
+- 🌱 Tenho conhecimento básico nas tecnologias:
 	
 	- HTML/CSS
 	- Git
