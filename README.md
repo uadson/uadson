@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Sou estudante em Desenvolvimento Web e bastante curioso em relação as novas tecnologias, principalmente no campo da Inteligência Artificial. Estou no penúltimo ano (4º período) do curso Tecnológico em Análise de Desenvolvimento de Sistemas.
 
-- 🔭 Sou programador em Python
+- 🔭 Programo em Python
 
 - 🌱 Atualmente estou estudando ...
 
@@ -38,5 +38,4 @@ Sou estudante em Desenvolvimento Web e bastante curioso em relação as novas te
 	- Jupyter Notebook / Lab
 	- Pandas / Numpy / Matplotlib / Seaborn
 	- Scikit-Learn
-	- Chatterbot
-	- Selenium
+	- Arduno com  Python
