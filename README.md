@@ -30,7 +30,7 @@ Sou estudante em Desenvolvimento Web e bastante curioso em relação as novas te
 	- Framework Django
 	- SQL
 
-- 🌱 Tenho conhecimento básico nas tecnologias:
+- 🌱 Tenho conhecimento básico em:
 	
 	- HTML/CSS
 	- Git
@@ -38,4 +38,5 @@ Sou estudante em Desenvolvimento Web e bastante curioso em relação as novas te
 	- Jupyter Notebook / Lab
 	- Pandas / Numpy / Matplotlib / Seaborn
 	- Scikit-Learn
-	- Arduno com  Python
+	- OpenCv - Python
+	- Arduino com  Python
