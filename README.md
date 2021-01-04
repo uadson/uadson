@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 	
 	- HTML/CSS
 	- Git
+	- Python com Base de Dados (MySql)
