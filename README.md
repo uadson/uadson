@@ -21,22 +21,13 @@ Here are some ideas to get you started:
 
 ### Sobre mim:
 
-Sou estudante em Desenvolvimento Web e bastante curioso em relação as novas tecnologias, principalmente no campo da Inteligência Artificial. Estou no penúltimo ano (4º período) do curso Tecnológico em Análise de Desenvolvimento de Sistemas.
-
-- 🔭 Programo em Python
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas(Tecnólogo - 4º período). Experiência de 4 anos na área de suporte técnico nível 2. Programação em Python há 2 anos. Conhecimento básico no Framework Django para aplicações Web. Estou a procura de um oportunidade na área de desenvolvimento onde eu possa aprimorar meus conhecimentos de modo a contribuir com a solução de problemas bem como gerar valor à empresa.
 
 - 🌱 Atualmente estou estudando ...
 
 	- Framework Django
-	- SQL
 
 - 🌱 Tenho conhecimento básico em:
 	
 	- HTML/CSS
 	- Git
-	- pyenv
-	- Jupyter Notebook / Lab
-	- Pandas / Numpy / Matplotlib / Seaborn
-	- Scikit-Learn
-	- OpenCv - Python
-	- Arduino com  Python
