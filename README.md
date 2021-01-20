@@ -26,9 +26,5 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou estudando ...
 
 	- Framework Django
-
-- 🌱 Tenho conhecimento básico em:
-	
-	- HTML/CSS
-	- Git
-	- Python com Base de Dados (MySql)
+	- SQL
+	- Integração Python / MySQL
