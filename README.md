@@ -21,10 +21,19 @@ Here are some ideas to get you started:
 
 ### Sobre mim:
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas(Tecnólogo - 4º período). Experiência de 4 anos na área de suporte técnico nível 2. Programação em Python há 2 anos. Conhecimento básico no Framework Django para aplicações Web. Estou a procura de um oportunidade na área de desenvolvimento onde eu possa aprimorar meus conhecimentos de modo a contribuir com a solução de problemas bem como gerar valor à empresa.
+- 🌱 Sou estudante em Desenvolvimento Web com Python utilizando o Framework Django para aplicações Web. Estou a procura de um oportunidade na área de desenvolvimento onde eu possa aprimorar meus conhecimentos de modo a contribuir com a solução de problemas bem como gerar valor à empresa.
 
-- 🌱 Atualmente estou estudando ...
+- 🌱 Nível Intermediário em Python
+- 🌱 Nocões básicas em HTML, CSS e JS
+- 🌱 Conhecimento Básico em SQL
 
-	- Framework Django
-	- SQL
-	- Integração Python / MySQL
+### Projeto de Aplicação Web:
+
+- 🔭 https://mesadelivros.herokuapp.com
+
+Projeto em Andamento ( aprimoramento é feito em decorrência do aprendizado )
+Ideia principal é a apresentação de:
+
+	- área de login do usuário;
+	- formulário para cadastro;
+	- dashboard.
