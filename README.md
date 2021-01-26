@@ -36,4 +36,5 @@ Ideia principal é a apresentação de:
 
 	- área de login do usuário;
 	- formulário para cadastro;
+	- campo de pesquisa;
 	- dashboard.
