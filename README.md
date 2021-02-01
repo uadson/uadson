@@ -27,14 +27,16 @@ Here are some ideas to get you started:
 - 🌱 Nocões básicas em HTML
 - 🌱 Conhecimento Básico em SQL
 
-### Projeto de Aplicação Web:
+### Projeto de Estudo utilizando o Framework Django:
 
 - 🔭 https://mesadelivros.herokuapp.com
 
-Projeto em Andamento ( aprimoramento é feito em decorrência do aprendizado )
+Projeto em Andamento.
 Ideia principal é a apresentação de:
-
+	
+	- uma lista exibindo os produtos cadastrados;
+	- opção de visualização detalhada do produto ao clicar no campo destacado;
+	- campo para pesquisa de produtos até por partes do nome do autor, e do titulo;
 	- área de login do usuário;
-	- formulário para cadastro;
-	- campo de pesquisa;
+	- formulário para cadastro de produtos;
 	- dashboard.
