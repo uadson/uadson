@@ -1,4 +1,4 @@
-### Olá, Eu sou Uadson! :D 👋
+### Hello Dev! :D 👋
 
 <!--
 **uadson/uadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uadsonfeitosa/)](https://www.linkedin.com/in/uadsonfeitosa/)
 
 
-### Sobre mim:
+### About me:
 
-	em aprenzidado ...
-
-	- Estudando Python (framework):
-
-		- Django
-
-	- Integrado com:
-
-		. Docker
-		. PostgreSQL
-		. Heroku
+  in constant learning ...
