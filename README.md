@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ##
 ### Languages:
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> Studying...
    
 ### Tecnologies / Tools:
 <img src="https://img.icons8.com/color/48/000000/django.png"/>
