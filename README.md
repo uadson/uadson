@@ -23,5 +23,22 @@ Here are some ideas to get you started:
 
   in constant learning ...
   
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&layout=compact&langs_count=16&theme=radical " />
+<img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&layout=compact&langs_count=16&theme=dark " />
+
+ ##
+ ### Connect with me:
+ <a href = "https://api.whatsapp.com/send?phone=5562985040799&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+ <a href = "https://www.instagram.com/_uadson/?hl=pt" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+ <a href = "https://www.linkedin.com/in/uadsonfeitosa/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>
+ <a href = "mailto:uadsonpy@gmail.com?&subject=&cc=&bcc=&body=uadsonpy@gmail.com%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+
+##
+### Languages:
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+   
+### Tecnologies / Tools:
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
