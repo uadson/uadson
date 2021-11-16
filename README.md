@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
   in constant learning ...
   
-<img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&layout=compact&langs_count=16&theme=dark " />
-
  ##
  ### Connect with me:
  <a href = "https://www.instagram.com/_uadson/?hl=pt" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
@@ -42,3 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   
+##
+### Activy:
+<img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&layout=compact&langs_count=16&theme=dark " />
