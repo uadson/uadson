@@ -44,6 +44,10 @@ Here are some ideas to get you started:
  
    
 ##
+   <!--START_SECTION:waka-->
+   <figure><embed src="https://wakatime.com/share/@0b24a383-e099-4d6a-a113-6c69f70be55a/32d61ccf-d87b-43aa-a911-3de3c81c9724.svg"></embed></figure>
+   <!--END_SECTION:waka-->
+   
 ### GitHub Stats:
 <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&amp;layout=compact&amp;theme=merko&amp;hide=css,html,jupyter%20notebook" style="max-width: 100%;">
