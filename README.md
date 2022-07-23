@@ -44,6 +44,7 @@ Here are some ideas to get you started:
  
    
 ### GitHub Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/uadson?cardType=level-alternate&theme=dark)](https://git.io/awesome-stats-card)
 <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&amp;layout=compact&amp;theme=merko&amp;hide=css,html,jupyter%20notebook" style="max-width: 100%;">
 
