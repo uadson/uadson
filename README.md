@@ -43,12 +43,9 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"><img alt="PostgreSQL" src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
  
    
-##
-   <!--START_SECTION:waka-->
-   <figure><embed src="https://wakatime.com/share/@0b24a383-e099-4d6a-a113-6c69f70be55a/32d61ccf-d87b-43aa-a911-3de3c81c9724.svg"></embed></figure>
-   <!--END_SECTION:waka-->
-   
 ### GitHub Stats:
 <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&amp;layout=compact&amp;theme=merko&amp;hide=css,html,jupyter%20notebook" style="max-width: 100%;">
+
+[![Uadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uadson)](https://github.com/uadson/github-readme-stats)
    
