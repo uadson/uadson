@@ -47,5 +47,6 @@ Here are some ideas to get you started:
 <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&amp;layout=compact&amp;theme=merko&amp;hide=css,html,jupyter%20notebook" style="max-width: 100%;">
 
-[![Uadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uadson)](https://github.com/uadson/github-readme-stats)
+[![Uadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@a5879fa5-12c3-4114-b820-4b86b66d3786)](https://github.com/@a5879fa5-12c3-4114-b820-4b86b66d3786/github-readme-stats)<br>
+[![wakatime](https://wakatime.com/badge/user/a5879fa5-12c3-4114-b820-4b86b66d3786.svg)](https://wakatime.com/@a5879fa5-12c3-4114-b820-4b86b66d3786)
    
