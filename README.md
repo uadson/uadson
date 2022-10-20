@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### About me:
 
   in constant learning ...
+
+[![@uadson's Holopin board](https://holopin.me/uadson)](https://holopin.io/@uadson)
   
  ##
  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62815552/159264970-72a57878-4f67-4b75-bf20-0b65984a9406.gif">
