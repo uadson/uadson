@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Portuguese --><a href = "(#ola)"target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" alt="Brazil" data-canonical-srs= 	"" style="width:50px;"></a>
+<!-- Portuguese --><a href = "#ola"target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" alt="Brazil" data-canonical-srs= 	"" style="width:50px;"></a>
 
-<!-- English--><a href = "(#hi)" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" alt="EUA" data-canonical-srs= "" style="width:70px;"></a>
+<!-- English--><a href = "#hi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" alt="EUA" data-canonical-srs= "" style="width:70px;"></a>
 
-#### Olá 👋
+<p id="ola"></p>
+Olá 👋
 Uadson aqui.
 
 Sobre mim:
@@ -36,7 +37,7 @@ Meu primeiro contato com a programação foi no ano de 2017, através das aulas 
 Meu objetivo é aprofundar no conhecimento de ferramentas essenciais utilizadas no backend em uma aplicação web além de integrar (futuramente) como sistemas baseados em Inteligência Artificial, como ChatBots por exemplo.
 
  ##
- 
+ <p id="hi"></p>
  Hi! 👋 Uadson here.
 
 About me:
