@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Portuguese --><a href = "#ola"target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" alt="Brazil" data-canonical-srs= 	"" style="width:50px;"></a>
+<!-- Portuguese --><a href = "#ola"target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" alt="Brazil" data-canonical-srs= 	"" style="width:30px;"></a>
 
-<!-- English--><a href = "#hi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" alt="EUA" data-canonical-srs= "" style="width:70px;"></a>
+<!-- English--><a href = "#hi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" alt="EUA" data-canonical-srs= "" style="width:38px;"></a>
 
 <p id="ola"></p>
 Olá 👋
