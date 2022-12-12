@@ -25,7 +25,7 @@ Uadson aqui.
 Sobre mim:
 
 Gosto de programar, escrever código mesmo, mas, com objetivo, ou seja, para resolver algum problema. Facilitar a vida.
-Gosto de tocar bateria também e de conversar sobre assuntos importantes, que agregam e que tragam evolução pra mente.
+Gosto de tocar bateria também e de conversar sobre assuntos importantes, que agregam e que tragam evolução para mente.
 
 Meu primeiro contato com a programação foi no ano de 2017, através das aulas do digníssimo professor Gustavo Guanabara. Era um curso de Python. Desde então sigo nessa code life. Em 2020 direcionei um pouco meus estudos à área de Ciência de Dados. Fundamentos para análise de dados com Pandas. Em 2021, obtive formação tecnóloga em análise e desenvolvimento de sistemas e então me aprofundei nos estudos na área de desenvolvimento web, utilizando Python e o framework Django.
 
@@ -64,9 +64,9 @@ My goal is to deepen the knowledge of essential tools used in the backend in a w
  ##
  #### Você pode me encontrar em:
 
-<!--
- <a href = "https://www.linkedin.com/in/uadsonfeitosa/" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
--->
+<!-- My Portfolio --><a href = "https://uadson.github.io/resume/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--QhRPtQbl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/website-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Mi Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
+ 
+<!-- Linkedin --><a href = "https://www.linkedin.com/in/uadsonfeitosa/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--imBRhTaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
 
 <!-- Instagram--><a href = "https://www.instagram.com/_uadson/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instragram Badge" data-canonical-srs= 	"ttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
   
