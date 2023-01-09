@@ -29,9 +29,9 @@ Gosto de tocar bateria também e de conversar sobre assuntos importantes, que ag
 
 Meu primeiro contato com a programação foi no ano de 2017, através das aulas do digníssimo professor Gustavo Guanabara. Era um curso de Python. Desde então sigo nessa code life. Em 2020 direcionei um pouco meus estudos à área de Ciência de Dados. Fundamentos para análise de dados com Pandas. Em 2021, obtive formação tecnóloga em análise e desenvolvimento de sistemas e então me aprofundei nos estudos na área de desenvolvimento web, utilizando Python e o framework Django.
 
--🔭 Estou aberto à oportunidades no momento;<br><br>
+<!-- -🔭 Estou aberto à oportunidades no momento;<br><br> -->
 -🌱 Atualmente estou focando meus estudos em Python, principalmente em ferramentas para teste de código como Pytest, na melhoria de técnicas com Django e na construção de API's com o framework Django Rest Framework, além de conhecimentos básicos porém necessários em Javascript;<br><br>
--👯 Seria interessante fazer parte de algum projeto open source, estou procurando por isso...<br><br>
+<!-- -👯 Seria interessante fazer parte de algum projeto open source, estou procurando por isso...<br><br> -->
 -💬 Fique à vontade para fazer perguntas...<br><br>
 
 Meu objetivo é aprofundar no conhecimento de ferramentas essenciais utilizadas no backend em uma aplicação web além de integrar (futuramente) como sistemas baseados em Inteligência Artificial, como ChatBots por exemplo.
@@ -46,11 +46,11 @@ I like to program, to write code, but with an objective, that is, to solve a pro
 
 My first contact with programming was in 2017, through the classes of the honorable professor Gustavo Guanabara. It was a Python course. Since then I follow this code life. In 2020 I directed my studies a little to the area of ​​Data Science. Fundamentals of data analysis with Pandas. In 2021, I got a technologist training in systems analysis and development and then I deepened my studies in the area of ​​web development, using Python and the Django framework.
 
--🔭 I'm open to opportunities at the moment;
+<!-- -🔭 I'm open to opportunities at the moment;-->
 
 -🌱 Currently I'm focusing my studies on Python, mainly on code testing tools like Pytest, on improving techniques with Django and on building API's with the Django Rest Framework, in addition to basic but necessary knowledge in Javascript;
 
--👯 It would be interesting to be part of some open source project, I'm looking for that...
+<!-- -👯 It would be interesting to be part of some open source project, I'm looking for that... -->
 
 -💬 Feel free to ask questions...
 
