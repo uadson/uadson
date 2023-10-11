@@ -31,7 +31,7 @@ Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API'
  ##
  <p id="hi"></p>
  Solving problems and making life easier through technology since 2017.
- Focused on continuous learning in web development and API development with Python. Python is life
+ Focused on continuous learning in web development and API development with Python. Python is life :)
 
 <!-- -🔭 I'm open to opportunities at the moment;
 
