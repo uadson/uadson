@@ -20,7 +20,7 @@ English<a href = "#hi" target="_blank" rel="noopener noreferrer"><img src="https
 -->
 
 <p id="ola"></p>
-Resolvendo problemas e facilitando a vida através da tecnologia desde 2017.
+Resolvendo problemas e facilitando a vida através da tecnologia desde 2019.
 Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API's com Python. Python is life :)
 
 <!-- -🔭 Estou aberto à oportunidades no momento;<br><br> 
@@ -30,7 +30,7 @@ Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API'
 
  ##
  <p id="hi"></p>
- Solving problems and making life easier through technology since 2017.
+ Solving problems and making life easier through technology since 2019.
  Focused on continuous learning in web development and API development with Python. Python is life :)
 
 <!-- -🔭 I'm open to opportunities at the moment;
