@@ -1,4 +1,3 @@
-
 <!--
 **uadson/uadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-Portuguese<a href = "#ola"target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" alt="Brazil" data-canonical-srs= 	"" style="width:30px;"></a>
-English<a href = "#hi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" alt="EUA" data-canonical-srs= "" style="width:38px;"></a>
--->https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white
 
 <p id="ola"></p>
 Resolvendo problemas e facilitando a vida através da tecnologia desde 2019.
-Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API's com Python. Python is life :)
+Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API's com Python. Python is good :)
 
 <!-- -🔭 Estou aberto à oportunidades no momento;<br><br> 
 -🌱 Atualmente estou focando meus estudos em Python, principalmente em ferramentas para teste de código como Pytest, na melhoria de técnicas com Django e na construção de API's com o framework Django Rest Framework, além de conhecimentos básicos porém necessários em Javascript;<br><br>
