@@ -77,11 +77,11 @@ Hackerrank<a href = "https://www.hackerrank.com/uadsoncastro" target="_blank" re
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%"/>
 <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D" style="max-width: 100%"/>
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" style="max-width: 100%"/>
-  
+<!--  
 ### GitHub Stats:
 [<img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=uadson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />](url)
 [<img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=uadson&amp;layout=compact&amp;theme=merko&amp;hide=css,html,jupyter%20notebook" style="max-width: 100%;">](url)
-
+-->
 <figure><embed src="https://wakatime.com/share/@uadson/ecb44b32-5c8d-4e92-916b-138d20134cf2.svg"></embed></figure>
 <img height = "400em" src="https://wakatime.com/share/@uadson/ecb44b32-5c8d-4e92-916b-138d20134cf2.svg" style="max-width: 100%;">
    
