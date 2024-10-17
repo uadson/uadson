@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p id="ola"></p>
 Resolvendo problemas e facilitando a vida através da tecnologia desde 2019.
-Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API's com Python. Python is good :)
+Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API's com Python, além de Machine Learning e IA. Python is good :)
 
 <!-- -🔭 Estou aberto à oportunidades no momento;<br><br> 
 -🌱 Atualmente estou focando meus estudos em Python, principalmente em ferramentas para teste de código como Pytest, na melhoria de técnicas com Django e na construção de API's com o framework Django Rest Framework, além de conhecimentos básicos porém necessários em Javascript;<br><br>
@@ -26,7 +26,7 @@ Focado no aprendizado contínuo em desenvolvimento web e desenvolvimento de API'
  ##
  <p id="hi"></p>
  Solving problems and making life easier through technology since 2019.
- Focused on continuous learning in web development and API development with Python. Python is life :)
+ Focused on continuous learning in web development and API development with Python, as well as Machine Learning and AI. Python is good :)
 
 <!-- -🔭 I'm open to opportunities at the moment;
 
